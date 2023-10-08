@@ -3,7 +3,7 @@
 /* Profile Object  */
 let myProfile = {
     name: "Fernando Mendez",
-    photo: "/images/fernando.png",
+    photo: "images/fernando.png",
     favoriteFoods: [
         "Pizza",
         "Fries",
